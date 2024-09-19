@@ -1,0 +1,22 @@
+<resources>
+    <!--registrasi-->
+    <string name="app_name">intentandactivity</string>
+    <string name="regis">Registrasi</string>"
+    <string name="nama">Masukkan nama Anda</string>
+    <string name="email">Masukkan email Anda</string>
+    <string name="nomor">Masukkan nomor hp Anda</string>
+    <string name="password">Masukkan password Anda</string>
+    <string name="text_with_color">By checking the box you agree to our <font color="#007FFF">terms</font> and <font color="#007FFF">conditions</font></string>
+
+    <!--login-->
+    <string name="login">Login</string>
+    <string name="username">Masukkan username Anda (ex. @gmail.com)</string>
+    <string name="ingat">Ingat saya</string>
+    <string name="forget"><font color="#007FFF">lupa password?</font></string>
+    <string name="newmember">New Member? <font color="#007FFF">Register</font></string>
+
+    <!--Profile-->
+    <string name="nomorhp">Nomor HP</string>
+    <string name="iv_marker_background_top">image mark background top</string>
+
+</resources>
